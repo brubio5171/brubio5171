@@ -30,4 +30,4 @@ I hope to add more and growingly complex projects to my roster.
 
 Thank you for taking the time to learn a little about me. Here's a picture of my dog as a reward:
 
-![My dog](https://raw.githubusercontent.com/brubio5171/data-wrangling-project/main/dog2.jpg?token=GHSAT0AAAAAABVXI6WB77LWCPJGMWONV6XQYVMZCQQ)
+![My dog](https://github.com/brubio5171/data-wrangling-project/blob/main/dog2.jpg)
